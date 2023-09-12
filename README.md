@@ -1,2 +1,5 @@
 # learning-repository
-This repo is just for learning purpose
+<h1>Author: Haris Ca </h1>
+<h3>This repo is just for learning purposes<h3>
+
+
